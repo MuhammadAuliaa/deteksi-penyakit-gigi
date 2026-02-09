@@ -1,0 +1,3 @@
+prepare sample testing (done)
+implement Flask (done)
+set requirements.txt
